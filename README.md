@@ -36,7 +36,8 @@ GIF created with LICEcap
 ## Notes
 
 Describe any challenges encountered while building the app.
-Getting the passkey for challenge #3.
+
+- Getting the passkey for challenge #3.
 ## License
 
     Copyright [yyyy] [name of copyright owner]
